@@ -1,61 +1,49 @@
-# [Your Name] - Data Analysis Portfolio
+# Hi, I'm Likhitha 👋
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+## About Me
+I'm an aspiring Data Analyst with 2 years of professional experience as a GIS Executive. I enjoy solving business problems using data and continuously improving my skills in analytics.
 
-## About This Portfolio Template
+## Skills
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
-
-## 🚀 Projects
-
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+## Currently Learning
+- Advanced SQL
+- Statistics
+- Machine Learning Basics
 
 
-## 🛠️ Skills
+- ## 🚀 Projects
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+### 🏏 IPL Match & Player Performance Analysis
+Analyzed Indian Premier League (IPL) match and player data to uncover team performance, player statistics, win patterns, and venue insights. Built interactive dashboards and visualizations using Python, SQL, and Power BI to support data-driven sports analytics.
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+### 📊 Customer Personality Analysis
+Analyzed customer demographics and purchasing behavior to identify different customer segments. Performed data cleaning, exploratory data analysis (EDA), and created interactive dashboards to generate actionable business insights.
 
-## 💡 How to Use This Template
+### 👥HR Analytics Dashboard
+Developed a Power BI dashboard to analyze employee attrition, workforce demographics, and departmental performance. Identified factors influencing employee retention through interactive visualizations.
 
-Creating your own portfolio from this template is a simple, four-step process.
+### 📋Excel Sales Dashboard
+Designed an Excel dashboard using Pivot Tables, Pivot Charts, XLOOKUP, and slicers to monitor sales performance. Automated reporting and presented key performance indicators in a user-friendly format.
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/likhithamenta
+- Email: likhithamenta6@gmail.com
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+Thank you for visiting my profile!
+
+
+
+
 
 Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
