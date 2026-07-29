@@ -22,6 +22,12 @@ I'm an aspiring Data Analyst with 2 years of professional experience as a GIS Ex
 
 ## 🚀 Projects
 
+### 🌍 Ground Water Quality Analysis
+
+Tools: Python, Pandas, NumPy, Matplotlib, Power BI, Excel
+
+Analyzed groundwater quality data collected across multiple monitoring locations to identify trends in water quality parameters over different years. Performed data cleaning, exploratory data analysis (EDA), and developed interactive dashboards to visualize regional variations and support environmental decision-making.
+
 ### 🏏 IPL Match & Player Performance Analysis
 Analyzed Indian Premier League (IPL) match and player data to uncover team performance, player statistics, win patterns, and venue insights. Built interactive dashboards and visualizations using Python, SQL, and Power BI to support data-driven sports analytics.
 
