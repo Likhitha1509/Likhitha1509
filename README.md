@@ -20,7 +20,7 @@ I'm an aspiring Data Analyst with 2 years of professional experience as a GIS Ex
 - Machine Learning Basics
 
 
-- ## 🚀 Projects
+## 🚀 Projects
 
 ### 🏏 IPL Match & Player Performance Analysis
 Analyzed Indian Premier League (IPL) match and player data to uncover team performance, player statistics, win patterns, and venue insights. Built interactive dashboards and visualizations using Python, SQL, and Power BI to support data-driven sports analytics.
